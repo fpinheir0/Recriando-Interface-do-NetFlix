@@ -100,7 +100,11 @@ header nav a:hover {
 }
 
 .carrosel-filmes-1 {
-    margin-top: 5px;
+    margin-top: 8px;
+}
+
+.carrosel-filmes-2 {
+    margin-top: 8px;
 }
 
 .video {
